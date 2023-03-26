@@ -1,6 +1,6 @@
 # Test Drive Pong Remake
 
-![logo](./graphics2/Resources/icon.png)
+![logo](./graphics2/Resources/ICON.png)
 
 ## Purpose:
 
