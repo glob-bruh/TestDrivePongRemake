@@ -1,6 +1,6 @@
 # Test Drive Pong Remake
 
-![logo](./graphics2/Resources/ICON.png)
+![logo](./graphics2/Resources/BANNER.png)
 
 ## Purpose:
 
@@ -10,7 +10,7 @@ This project was created for an assignment, and is released with permission of t
 
 ## Setup: 
 
-1) Clone this repo in Visual Studio.
+1) Clone this repo in [Visual Studio](https://visualstudio.microsoft.com/).
 
 ### Import music:
 
@@ -19,13 +19,13 @@ The song on this repo is a blank 1 minute wav file. To put in your own music, fo
 1) Ensure the audio is in wav format and the filename is `song.wav`.
 2) Open `\Properties\Resources.resx`.
 3) Navigate to the `Audio` category.
-4) Drag and drop the new `song.wav` into the managed resources editor. Select `yes` when asked if you want to replace the resource.
+4) Drag and drop the new `SONG.wav` into the managed resources editor. Select `yes` when asked if you want to replace the resource.
 
 The song that plays on the title screen is [Ugly by Bubba Sparxxx](https://www.youtube.com/watch?v=OfaGEJMSEwc).
 
 ## Contributing:
 
-Please do not include copyrighted material in your pull request!
+Please do not include copyrighted music in your pull request!
 
 ## License:
 

@@ -14,7 +14,7 @@ namespace graphics2
         Ball ball;
         Paddle lPaddle;
         Paddle rPaddle;
-        SoundPlayer musicPlayer = new SoundPlayer(Properties.Resources.song);
+        SoundPlayer musicPlayer = new SoundPlayer(Properties.Resources.SONG);
         Scoreboard scoreL;
         Scoreboard scoreR;
 
